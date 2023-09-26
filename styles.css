@@ -40,6 +40,14 @@ h2 {
   padding: 1rem;
   box-sizing: border-box;
 }
+.card-img-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.card-img-container img {
+  width: 20%;
+}
 
 footer {
   margin-top: 3rem;
