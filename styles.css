@@ -22,9 +22,16 @@ html {
 }
 h2 {
   font-weight: 200;
+  margin-bottom: 1rem;
 }
 #bold-title {
   font-weight: 600;
+}
+.feature-intro-section p {
+  margin-top: 0rem;
+  text-align: center;
+  font-size: 3.555vw;
+  line-height: 1.65;
 }
 
 footer {
