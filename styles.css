@@ -5,15 +5,22 @@ html {
 }
 
 .feature-container {
-  background-color: (0, 0%, 98%);
+  background-color: hsl(0, 0%, 98%);
   display: grid;
   grid-template-columns: 1fr;
   place-items: center;
-  max-width: 81%;
+  max-width: 90%;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 2rem;
   padding-top: 3.3rem;
   box-sizing: border-box;
+}
+h2 {
+  font-weight: 200;
+  padding-left: 0.3rem;
+}
+#bold-title {
+  font-weight: 600;
 }
 
 footer {
