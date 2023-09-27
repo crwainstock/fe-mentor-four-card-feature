@@ -97,18 +97,13 @@ footer {
 /* Larger Screens */
 
 @media only screen and (min-width: 660px) {
-  .feature-container {
+  .card-container-large {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
-    /* place-items: center; */
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    place-items: center;
     max-width: 81%;
     margin: 0 auto;
-  }
-  .feature-intro-section {
-    display: grid;
-    grid-column: 1 / 4;
-    grid-row: 1 / 2;
   }
   h2 {
     font-weight: 200;
@@ -121,7 +116,7 @@ footer {
   .feature-intro-section p {
     margin-top: 0rem;
     text-align: center;
-    font-size: 3.555vw;
+    font-size: 1vw;
     line-height: 1.65;
   }
 }
