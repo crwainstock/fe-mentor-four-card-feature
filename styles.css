@@ -144,4 +144,16 @@ footer {
     grid-column: 1;
     grid-row: 1 / 3;
   }
+  #team-builder {
+    grid-column: 2 / 3;
+    grid-row: 0 / 2;
+  }
+  #karma {
+    grid-column: 2 / 3;
+    grid-row: 2 / 4;
+  }
+  #calculator {
+    grid-column: 3 / 4;
+    grid-row: 1 / 3;
+  }
 }
