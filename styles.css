@@ -46,28 +46,31 @@ h2 {
   margin-top: 3.5rem;
   padding-bottom: 1.3rem;
 }
-#supervisor h3 {
-  font-size: 4.7vw;
-  margin-top: 0rem;
-  margin-bottom: 0rem;
-}
-#supervisor p {
-  margin-top: 0.2rem;
-  margin-left: 0.2rem;
-  line-height: 1.7;
-  font-size: 3vw;
-}
-
 #team-builder {
   margin-top: 1.5rem;
   border-top: 4px solid hsl(0, 78%, 62%);
 }
-#team-builder h3 {
+#karma {
+  margin-top: 1.5rem;
+  border-top: 4px solid hsl(34, 97%, 64%);
+}
+#calculator {
+  margin-top: 1.5rem;
+  border-top: 4px solid hsl(212, 86%, 64%);
+}
+
+#supervisor h3,
+#team-builder h3,
+#karma h3,
+#calculator h3 {
   font-size: 4.7vw;
   margin-top: 0rem;
   margin-bottom: 0rem;
 }
-#team-builder p {
+#supervisor p,
+#team-builder p,
+#karma p,
+#calculator p {
   margin-top: 0.2rem;
   margin-left: 0.2rem;
   line-height: 1.7;
