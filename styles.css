@@ -37,13 +37,14 @@ h2 {
 .card-container {
   background-color: white;
   margin-top: 3rem;
-  padding: 1rem;
+  padding: 1.5rem;
   box-sizing: border-box;
   border-radius: 5px;
 }
 
 #supervisor {
   border-top: 3px solid hsl(180, 62%, 55%);
+  margin-top: 3.5rem;
 }
 
 .card-img-container {
