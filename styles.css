@@ -42,7 +42,7 @@ h2 {
   border-radius: 5px;
 }
 #supervisor {
-  border-top: 3px solid hsl(180, 62%, 55%);
+  border-top: 4px solid hsl(180, 62%, 55%);
   margin-top: 3.5rem;
 }
 #supervisor h3 {
@@ -50,7 +50,11 @@ h2 {
 }
 
 #team-builder {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
+  border-top: 4px solid hsl(0, 78%, 62%);
+}
+#team-builder h3 {
+  margin-top: 0rem;
 }
 
 .card-img-container {
