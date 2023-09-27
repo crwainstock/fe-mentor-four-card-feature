@@ -67,6 +67,12 @@ h2 {
   margin-top: 0rem;
   margin-bottom: 0rem;
 }
+#team-builder p {
+  margin-top: 0.2rem;
+  margin-left: 0.2rem;
+  line-height: 1.7;
+  font-size: 3vw;
+}
 
 .card-img-container {
   display: flex;
