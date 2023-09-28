@@ -22,8 +22,12 @@ html {
 }
 h2 {
   font-weight: 200;
-  margin-bottom: 1rem;
+  margin-top: 0rem;
   letter-spacing: 0.1px;
+  margin-bottom: 1rem;
+}
+#light-title {
+  margin-bottom: 0rem;
 }
 #bold-title {
   font-weight: 600;
